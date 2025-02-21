@@ -5,7 +5,7 @@
 
 # Gesture Maestro
 
-**Gesture Maestro** is an open-source application that enables device interaction through real-time hand gesture recognition. Using **MediaPipe** for precise gesture detection and **Pynput** for simulating keyboard inputs, this tool allows users to map custom actions to specific gestures.
+**Gesture Maestro** is an open-source application that enables device interaction through real-time hand gesture recognition. Using **MediaPipe** for precise gesture detection and **pynput** for simulating keyboard inputs, this tool allows users to map custom actions to specific gestures.
 
 ## Table of contents
 
