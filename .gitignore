@@ -1,0 +1,8 @@
+# Byte-compiled files
+__pycache__/
+
+# Python virtual environment
+.venv/
+
+# App configuration files
+config/

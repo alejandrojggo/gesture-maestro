@@ -1,0 +1,2 @@
+mediapipe==0.10.20
+pynput==1.7.7
