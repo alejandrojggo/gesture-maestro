@@ -32,6 +32,7 @@ Follow these steps to set up and run the project on your local machine.
 ### Setting up the project
 
 1. **Clone the repository:**
+    
     If you haven't already cloned the repository, run the following command to do so:
 
     ```bash
@@ -39,13 +40,13 @@ Follow these steps to set up and run the project on your local machine.
     ```
 
 2. **Navigate to the project directory:**
-    Change to the project directory:
 
     ```bash
     cd gesture-maestro
     ```
     
 3. **Create a virtual environment (optional but recommended):**
+    
     You can create a virtual environment to keep dependencies isolated:
 
     ```bash
@@ -66,6 +67,7 @@ Follow these steps to set up and run the project on your local machine.
         ```
 
 5. **Install dependencies:**
+    
     Install the required dependencies listed in the `requirements.txt` file:
 
     ```bash
